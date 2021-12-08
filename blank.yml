@@ -1,3 +1,5 @@
+name: mkyan
+
 on: workflow_dispatch
 
 jobs:
